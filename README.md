@@ -10,6 +10,8 @@ Ginger-Chai is developed to calcualte to count total list of Dynamic and Static 
 [Phantomjs](http://phantomjs.org/)
 
 ### usage
+` specify your target in crawl.js`
+
 `C:\Users\chaitanyakrishna\phantomjs crawl.js`
 ### Output
 * https://github.com/ , dynamic
