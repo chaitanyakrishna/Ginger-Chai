@@ -4,7 +4,7 @@ Ginger Chai crawls static and dynamic links provided within given url
 
 ## Description
 
-Ginger-Chai is developed to calcualte to count total list of Dynamic and Static urls in a given website
+Ginger-Chai is developed to calculate to count total list of Dynamic and Static urls in a given website
 
 ### Requirements
 
